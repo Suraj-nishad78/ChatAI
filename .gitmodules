@@ -1,0 +1,6 @@
+[submodule "ChatAI_Client"]
+	path = ChatAI_Client
+	url = https://github.com/Suraj-nishad78/ChatAI_Client
+[submodule "ChatAI_Server"]
+	path = ChatAI_Server
+	url = https://github.com/Suraj-nishad78/ChatAI_Server
