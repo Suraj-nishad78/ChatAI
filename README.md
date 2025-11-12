@@ -1,4 +1,4 @@
-# Full-Stack Project
+# ChatAI Project
 
 ## 🚀 Overview
 **ChatAI** is an **intelligent** chatbot that enables natural, context-aware conversations using advanced **AI models**. It’s designed to understand user intent, provide accurate responses, and adapt to various use cases like support, learning, or automation. Built for **flexibility**, **ChatAI** can be easily integrated into web or mobile platforms for a seamless **conversational** experience.
